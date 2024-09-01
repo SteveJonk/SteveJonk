@@ -15,7 +15,7 @@ I'm Steve Jonk, a passionate front-end developer with a love for design.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,astro,ubuntu,docker,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,vue,nuxt,astro,php,wordpress,ubuntu,docker,blender)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
